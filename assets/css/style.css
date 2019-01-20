@@ -48,7 +48,8 @@ h1 {
   border: 5px;
   margin: auto;
   padding: 10px;
-  box-sizing: border-box;
+
+  box-sizing: inherit;
 }
 
 .submit {
